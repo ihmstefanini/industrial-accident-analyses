@@ -1,5 +1,5 @@
 # industrial-accident-analyses
-Exploratory Analyses of Industrial Labor Accidents
+Exploratory Analyses of Industrial Labor Accidents using Python Notebook
 
 
 # Motivation

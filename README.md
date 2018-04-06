@@ -19,9 +19,9 @@ We will use two basic concepts about data exploration: Highlight and Insight
 
 
 # Further details
-Programming Language for data analysis: Python
-Data handling tools: pandas helping with data-frame operations
-Data Visualization tools: Seaborn and Plotly
+ - Programming Language for data analysis: **Python**
+ - Data handling tools: **pandas** helping with data-frame operations
+ - Data Visualization tools: **Seaborn and Plotly**
 
 
 # The following data source used is [here](https://www.kaggle.com/ihmstefanini/industrial-safety-and-health-analytics-database)

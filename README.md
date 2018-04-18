@@ -1,5 +1,5 @@
 # industrial-accident-analyses
-Exploratory Analyses of Industrial Labor Accidents using Python Notebook
+Exploratory Analyses of Industrial Labor Accidents using Python Notebook [(see it here)](http://nbviewer.jupyter.org/github/ihmstefanini/industrial-accident-analyses/blob/master/IHMStefanini_Exploratory_Analyses_Industrial_Labor_Accidents.ipynb)
 
 
 # Motivation
